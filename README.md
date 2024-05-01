@@ -3,7 +3,7 @@ Action Is Important: Action Augmentation Video Moment Retrieval
 [Jiayu Song](https://cn.linkedin.com/in/jiayusong1999)
 
 ## Introduction
-- Soft Contrastive Bilinear Video Moement Retrievl
+- Soft Contrastive Bilinear Video Moement Retrieval
 - Action Augmentation Video Moment Retrieval
 
 
