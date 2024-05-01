@@ -16,7 +16,7 @@ Action Is Important: Action Augmentation Video Moment Retrieval
 将模型下载后放在pretained_models文件下。
 
 - **Ablation Study & Hyperparameter Analysis** 
-- 消融实验，超参数敏感性分析实验 各模型，训练过程，测试结果均在其中，以txt和png文件存储。
+- 消融实验，超参数敏感性分析实验 各模型，训练过程，测试结果均在其中，以.txt和.png文件存储。
 
 
 ## Multimodal Compact Bilinear Fusion in VMR
