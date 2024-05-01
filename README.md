@@ -35,7 +35,7 @@ bash prepare_data.sh
 
 
 ## Code
-The framework of AGVMR is based on [LGI](https://github.com/JonghwanMun/LGI4temporalgrounding). On the basic of it, add MCB block, action augmentation block, soft contrastive Loss(for SCBVMR) and mean square loss(for agvmr) to improve the accuary of vmr. Many thanks for their open source and we have cited their paper in our work. 
+The framework of AGVMR is based on [LGI](https://github.com/JonghwanMun/LGI4temporalgrounding). On the basic of it, add MCB block, action augmentation block, soft contrastive Loss (for SCBVMR) and mean square loss (for AGVMR) to improve the accuary of vmr. Many thanks for their open source and we have cited their paper in our work. 
 
 ## Train
 
