@@ -9,6 +9,9 @@ Action Is Important: Action Augmentation Video Moment Retrieval
 
 ## Data
 运行 prepare_data.sh 文件下载Charades和ActivityNet Captions数据集。
+```bash
+bash prepare_data.sh
+```
 
 ## evaluate pre-trained models
 为方便验证模型的有效性，预训练模型地址：[Baidu NetDisk](https://pan.baidu.com/s/1ydqOZ6qer6MdR14x6BwdDw) , 提取码：uky2 
